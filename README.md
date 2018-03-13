@@ -3,4 +3,6 @@ A method for correcting the barometric altitude of a moving platform by using a 
 
 Difference between static and mobile data are compared and a altitude computed which includes differential correction data from the static barometer.
 
+Our second method uses a barometer on a moving platform alongside one on static device, with both recording timestamped barometric data for later analysis offline.
+
 Private GitHub created April 14th 2016. Public GitHub created December 17th 2017.
