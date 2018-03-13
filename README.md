@@ -1,5 +1,5 @@
 # staticAltitudeCorrection
-Correcting the barometric altitude of a moving platform by using a static barometer with a radio link, recording data alongside a mobile barometer.
+A method for correcting the barometric altitude of a moving platform by using a static barometer with a radio link, recording data alongside a mobile barometer.  One use of said method could be in apparatus for performance testing of human powered vehicles.
 
 Difference between static and mobile data are compared and a altitude computed which includes differential correction data from the static barometer.
 
